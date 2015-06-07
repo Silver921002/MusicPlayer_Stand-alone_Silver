@@ -14,6 +14,36 @@
 		5336553C1B1AB52600B381DD /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5336553B1B1AB52600B381DD /* Images.xcassets */; };
 		5336553F1B1AB52600B381DD /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5336553D1B1AB52600B381DD /* LaunchScreen.xib */; };
 		5336554B1B1AB52600B381DD /* MusicPlayerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5336554A1B1AB52600B381DD /* MusicPlayerTests.m */; };
+		533655601B1ABE5400B381DD /* bg1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 533655551B1ABE5400B381DD /* bg1.jpeg */; };
+		533655611B1ABE5400B381DD /* bg2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 533655561B1ABE5400B381DD /* bg2.jpg */; };
+		533655621B1ABE5400B381DD /* list.png in Resources */ = {isa = PBXBuildFile; fileRef = 533655571B1ABE5400B381DD /* list.png */; };
+		533655631B1ABE5400B381DD /* next.png in Resources */ = {isa = PBXBuildFile; fileRef = 533655581B1ABE5400B381DD /* next.png */; };
+		533655641B1ABE5400B381DD /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 533655591B1ABE5400B381DD /* play.png */; };
+		533655651B1ABE5400B381DD /* pre.png in Resources */ = {isa = PBXBuildFile; fileRef = 5336555A1B1ABE5400B381DD /* pre.png */; };
+		533655661B1ABE5400B381DD /* soundOff.png in Resources */ = {isa = PBXBuildFile; fileRef = 5336555B1B1ABE5400B381DD /* soundOff.png */; };
+		533655671B1ABE5400B381DD /* soundOn.png in Resources */ = {isa = PBXBuildFile; fileRef = 5336555C1B1ABE5400B381DD /* soundOn.png */; };
+		533655681B1ABE5400B381DD /* stop.png in Resources */ = {isa = PBXBuildFile; fileRef = 5336555D1B1ABE5400B381DD /* stop.png */; };
+		533655691B1ABE5400B381DD /* 我可以.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 5336555E1B1ABE5400B381DD /* 我可以.lrc */; };
+		5336556A1B1ABE5400B381DD /* 我可以.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5336555F1B1ABE5400B381DD /* 我可以.mp3 */; };
+		5336556C1B1AC0A300B381DD /* 我可以.png in Resources */ = {isa = PBXBuildFile; fileRef = 5336556B1B1AC0A300B381DD /* 我可以.png */; };
+		5336556F1B1AC5F800B381DD /* MusicModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 5336556E1B1AC5F800B381DD /* MusicModel.m */; };
+		533655711B1AD43200B381DD /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 533655701B1AD43200B381DD /* AVFoundation.framework */; };
+		533655761B1AE04100B381DD /* Call Me Maybe.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 533655721B1AE04100B381DD /* Call Me Maybe.mp3 */; };
+		533655771B1AE04100B381DD /* Let It Go.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 533655731B1AE04100B381DD /* Let It Go.mp3 */; };
+		533655781B1AE04100B381DD /* Call Me Maybe.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 533655741B1AE04100B381DD /* Call Me Maybe.lrc */; };
+		533655791B1AE04100B381DD /* Let It Go.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 533655751B1AE04100B381DD /* Let It Go.lrc */; };
+		533655861B1B578400B381DD /* 表白.png in Resources */ = {isa = PBXBuildFile; fileRef = 5336557B1B1B578400B381DD /* 表白.png */; };
+		533655871B1B578400B381DD /* 表白.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 5336557C1B1B578400B381DD /* 表白.lrc */; };
+		533655881B1B578400B381DD /* 表白.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5336557D1B1B578400B381DD /* 表白.mp3 */; };
+		5336558B1B1B578400B381DD /* 火花.png in Resources */ = {isa = PBXBuildFile; fileRef = 533655811B1B578400B381DD /* 火花.png */; };
+		5336558C1B1B578400B381DD /* 火花.lrc in Resources */ = {isa = PBXBuildFile; fileRef = 533655821B1B578400B381DD /* 火花.lrc */; };
+		5336558D1B1B578400B381DD /* 火花.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 533655831B1B578400B381DD /* 火花.mp3 */; };
+		5336558E1B1B578400B381DD /* Call Me Maybe.png in Resources */ = {isa = PBXBuildFile; fileRef = 533655841B1B578400B381DD /* Call Me Maybe.png */; };
+		5336558F1B1B578400B381DD /* Let It Go.png in Resources */ = {isa = PBXBuildFile; fileRef = 533655851B1B578400B381DD /* Let It Go.png */; };
+		533655931B1B618800B381DD /* Turn Down for What.png in Resources */ = {isa = PBXBuildFile; fileRef = 533655901B1B618800B381DD /* Turn Down for What.png */; };
+		533655951B1B618800B381DD /* Turn Down for What.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 533655921B1B618800B381DD /* Turn Down for What.mp3 */; };
+		533655981B1B61FA00B381DD /* Heartbeat Song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 533655961B1B61FA00B381DD /* Heartbeat Song.mp3 */; };
+		533655991B1B61FA00B381DD /* Heartbeat Song.png in Resources */ = {isa = PBXBuildFile; fileRef = 533655971B1B61FA00B381DD /* Heartbeat Song.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +70,37 @@
 		533655441B1AB52600B381DD /* MusicPlayerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MusicPlayerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		533655491B1AB52600B381DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5336554A1B1AB52600B381DD /* MusicPlayerTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MusicPlayerTests.m; sourceTree = "<group>"; };
+		533655551B1ABE5400B381DD /* bg1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg1.jpeg; sourceTree = "<group>"; };
+		533655561B1ABE5400B381DD /* bg2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg2.jpg; sourceTree = "<group>"; };
+		533655571B1ABE5400B381DD /* list.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = list.png; sourceTree = "<group>"; };
+		533655581B1ABE5400B381DD /* next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = next.png; sourceTree = "<group>"; };
+		533655591B1ABE5400B381DD /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		5336555A1B1ABE5400B381DD /* pre.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pre.png; sourceTree = "<group>"; };
+		5336555B1B1ABE5400B381DD /* soundOff.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = soundOff.png; sourceTree = "<group>"; };
+		5336555C1B1ABE5400B381DD /* soundOn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = soundOn.png; sourceTree = "<group>"; };
+		5336555D1B1ABE5400B381DD /* stop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stop.png; sourceTree = "<group>"; };
+		5336555E1B1ABE5400B381DD /* 我可以.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "我可以.lrc"; path = "Images/我可以.lrc"; sourceTree = "<group>"; };
+		5336555F1B1ABE5400B381DD /* 我可以.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "我可以.mp3"; path = "Images/我可以.mp3"; sourceTree = "<group>"; };
+		5336556B1B1AC0A300B381DD /* 我可以.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "我可以.png"; path = "Images/我可以.png"; sourceTree = "<group>"; };
+		5336556D1B1AC5F800B381DD /* MusicModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MusicModel.h; sourceTree = "<group>"; };
+		5336556E1B1AC5F800B381DD /* MusicModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MusicModel.m; sourceTree = "<group>"; };
+		533655701B1AD43200B381DD /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		533655721B1AE04100B381DD /* Call Me Maybe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Call Me Maybe.mp3"; path = "Images/Call Me Maybe.mp3"; sourceTree = "<group>"; };
+		533655731B1AE04100B381DD /* Let It Go.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Let It Go.mp3"; path = "Images/Let It Go.mp3"; sourceTree = "<group>"; };
+		533655741B1AE04100B381DD /* Call Me Maybe.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Call Me Maybe.lrc"; path = "Images/Call Me Maybe.lrc"; sourceTree = "<group>"; };
+		533655751B1AE04100B381DD /* Let It Go.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = "Let It Go.lrc"; path = "Images/Let It Go.lrc"; sourceTree = "<group>"; };
+		5336557B1B1B578400B381DD /* 表白.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "表白.png"; sourceTree = "<group>"; };
+		5336557C1B1B578400B381DD /* 表白.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "表白.lrc"; sourceTree = "<group>"; };
+		5336557D1B1B578400B381DD /* 表白.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "表白.mp3"; sourceTree = "<group>"; };
+		533655811B1B578400B381DD /* 火花.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "火花.png"; sourceTree = "<group>"; };
+		533655821B1B578400B381DD /* 火花.lrc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "火花.lrc"; sourceTree = "<group>"; };
+		533655831B1B578400B381DD /* 火花.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "火花.mp3"; sourceTree = "<group>"; };
+		533655841B1B578400B381DD /* Call Me Maybe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Call Me Maybe.png"; sourceTree = "<group>"; };
+		533655851B1B578400B381DD /* Let It Go.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Let It Go.png"; sourceTree = "<group>"; };
+		533655901B1B618800B381DD /* Turn Down for What.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Turn Down for What.png"; sourceTree = "<group>"; };
+		533655921B1B618800B381DD /* Turn Down for What.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Turn Down for What.mp3"; sourceTree = "<group>"; };
+		533655961B1B61FA00B381DD /* Heartbeat Song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Heartbeat Song.mp3"; sourceTree = "<group>"; };
+		533655971B1B61FA00B381DD /* Heartbeat Song.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Heartbeat Song.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +108,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				533655711B1AD43200B381DD /* AVFoundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +125,7 @@
 		533655221B1AB52600B381DD = {
 			isa = PBXGroup;
 			children = (
+				533655701B1AD43200B381DD /* AVFoundation.framework */,
 				5336552D1B1AB52600B381DD /* MusicPlayer */,
 				533655471B1AB52600B381DD /* MusicPlayerTests */,
 				5336552C1B1AB52600B381DD /* Products */,
@@ -83,6 +146,8 @@
 			children = (
 				533655321B1AB52600B381DD /* AppDelegate.h */,
 				533655331B1AB52600B381DD /* AppDelegate.m */,
+				5336556D1B1AC5F800B381DD /* MusicModel.h */,
+				5336556E1B1AC5F800B381DD /* MusicModel.m */,
 				533655351B1AB52600B381DD /* ViewController.h */,
 				533655361B1AB52600B381DD /* ViewController.m */,
 				533655381B1AB52600B381DD /* Main.storyboard */,
@@ -96,6 +161,8 @@
 		5336552E1B1AB52600B381DD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5336557A1B1B51CE00B381DD /* songs */,
+				533655541B1ABE5400B381DD /* Images */,
 				5336552F1B1AB52600B381DD /* Info.plist */,
 				533655301B1AB52600B381DD /* main.m */,
 			);
@@ -117,6 +184,48 @@
 				533655491B1AB52600B381DD /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		533655541B1ABE5400B381DD /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				533655551B1ABE5400B381DD /* bg1.jpeg */,
+				533655561B1ABE5400B381DD /* bg2.jpg */,
+				533655571B1ABE5400B381DD /* list.png */,
+				533655581B1ABE5400B381DD /* next.png */,
+				533655591B1ABE5400B381DD /* play.png */,
+				5336555A1B1ABE5400B381DD /* pre.png */,
+				5336555B1B1ABE5400B381DD /* soundOff.png */,
+				5336555C1B1ABE5400B381DD /* soundOn.png */,
+				5336555D1B1ABE5400B381DD /* stop.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		5336557A1B1B51CE00B381DD /* songs */ = {
+			isa = PBXGroup;
+			children = (
+				5336557B1B1B578400B381DD /* 表白.png */,
+				5336557C1B1B578400B381DD /* 表白.lrc */,
+				5336557D1B1B578400B381DD /* 表白.mp3 */,
+				533655961B1B61FA00B381DD /* Heartbeat Song.mp3 */,
+				533655971B1B61FA00B381DD /* Heartbeat Song.png */,
+				533655811B1B578400B381DD /* 火花.png */,
+				533655821B1B578400B381DD /* 火花.lrc */,
+				533655831B1B578400B381DD /* 火花.mp3 */,
+				533655901B1B618800B381DD /* Turn Down for What.png */,
+				533655921B1B618800B381DD /* Turn Down for What.mp3 */,
+				533655841B1B578400B381DD /* Call Me Maybe.png */,
+				533655851B1B578400B381DD /* Let It Go.png */,
+				533655721B1AE04100B381DD /* Call Me Maybe.mp3 */,
+				533655731B1AE04100B381DD /* Let It Go.mp3 */,
+				533655741B1AE04100B381DD /* Call Me Maybe.lrc */,
+				533655751B1AE04100B381DD /* Let It Go.lrc */,
+				5336555E1B1ABE5400B381DD /* 我可以.lrc */,
+				5336556B1B1AC0A300B381DD /* 我可以.png */,
+				5336555F1B1ABE5400B381DD /* 我可以.mp3 */,
+			);
+			name = songs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,9 +308,37 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5336558E1B1B578400B381DD /* Call Me Maybe.png in Resources */,
+				533655981B1B61FA00B381DD /* Heartbeat Song.mp3 in Resources */,
+				533655671B1ABE5400B381DD /* soundOn.png in Resources */,
+				533655631B1ABE5400B381DD /* next.png in Resources */,
+				533655771B1AE04100B381DD /* Let It Go.mp3 in Resources */,
+				533655791B1AE04100B381DD /* Let It Go.lrc in Resources */,
+				5336558B1B1B578400B381DD /* 火花.png in Resources */,
+				533655641B1ABE5400B381DD /* play.png in Resources */,
 				5336553A1B1AB52600B381DD /* Main.storyboard in Resources */,
+				533655691B1ABE5400B381DD /* 我可以.lrc in Resources */,
+				533655931B1B618800B381DD /* Turn Down for What.png in Resources */,
+				533655991B1B61FA00B381DD /* Heartbeat Song.png in Resources */,
 				5336553F1B1AB52600B381DD /* LaunchScreen.xib in Resources */,
+				5336556A1B1ABE5400B381DD /* 我可以.mp3 in Resources */,
+				533655681B1ABE5400B381DD /* stop.png in Resources */,
+				5336558C1B1B578400B381DD /* 火花.lrc in Resources */,
+				533655871B1B578400B381DD /* 表白.lrc in Resources */,
+				533655861B1B578400B381DD /* 表白.png in Resources */,
+				533655601B1ABE5400B381DD /* bg1.jpeg in Resources */,
+				533655611B1ABE5400B381DD /* bg2.jpg in Resources */,
+				533655651B1ABE5400B381DD /* pre.png in Resources */,
+				533655761B1AE04100B381DD /* Call Me Maybe.mp3 in Resources */,
+				5336558D1B1B578400B381DD /* 火花.mp3 in Resources */,
+				533655661B1ABE5400B381DD /* soundOff.png in Resources */,
+				533655781B1AE04100B381DD /* Call Me Maybe.lrc in Resources */,
+				5336558F1B1B578400B381DD /* Let It Go.png in Resources */,
 				5336553C1B1AB52600B381DD /* Images.xcassets in Resources */,
+				5336556C1B1AC0A300B381DD /* 我可以.png in Resources */,
+				533655621B1ABE5400B381DD /* list.png in Resources */,
+				533655951B1B618800B381DD /* Turn Down for What.mp3 in Resources */,
+				533655881B1B578400B381DD /* 表白.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -220,6 +357,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				533655371B1AB52600B381DD /* ViewController.m in Sources */,
+				5336556F1B1AC5F800B381DD /* MusicModel.m in Sources */,
 				533655341B1AB52600B381DD /* AppDelegate.m in Sources */,
 				533655311B1AB52600B381DD /* main.m in Sources */,
 			);
@@ -350,8 +488,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = MusicPlayer/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -360,8 +500,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = MusicPlayer/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -418,6 +560,7 @@
 				533655501B1AB52600B381DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		533655511B1AB52600B381DD /* Build configuration list for PBXNativeTarget "MusicPlayerTests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +569,7 @@
 				533655531B1AB52600B381DD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
